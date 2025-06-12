@@ -1,6 +1,8 @@
 # Bash script for 42 Cpp modules
 
-I made this script to avoid hand pain from writing Classes in Orthodox Canonical Class Form
+I made this script to avoid hand pain from writing Classes in Orthodox Canonical Class Form.
+
+You must use this form starting cpp02.
 
 # The Orthodox Canonical Class Form
 
